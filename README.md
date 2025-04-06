@@ -20,8 +20,9 @@ cd Basic-Syntax-Variables-and-Data-types
 
 ### 🤔 Why C Language?
 
-Although I have some experience with web development, I believe in building a strong foundation. That’s why I’m starting from scratch with the C programming language.
-👉 If you're just starting out and want something easier, Python can also be a good choice.
+Even though I have some experience in web development, I believe it's important to start from scratch. C helps us understand how computers actually work.  
+However, if you are a complete beginner without any programming guidance, you can also start with Python—it’s easier to begin with.
+
 ---
 
 ### 🧠 What You'll Learn Here:
@@ -156,5 +157,3 @@ Binary power logic:
 ### ✅ Final Thoughts
 
 This type of repository will be added to my GitHub as I continue to learn more topics. I hope others find it helpful as well. If you find it useful, feel free to follow me and star the repo! If you notice any mistakes, please let me know so I can fix them. I'll be creating new repositories as I learn, so feel free to follow those as well if you want to keep up with my progress.
-
-If you have any questions or suggestions, you can reach me at: [mashrafi.mail@gmail.com].
