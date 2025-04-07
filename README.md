@@ -15,6 +15,8 @@ To clone this repository and run it locally on your computer, follow these steps
 Open your terminal and run the following command to clone the repository to your local machine:
 ```bash
 git clone https://github.com/MashrafiDev/Basic-Syntax-Variables-and-Data-types.git
+```
+```bash
 cd Basic-Syntax-Variables-and-Data-types
 ```
 
