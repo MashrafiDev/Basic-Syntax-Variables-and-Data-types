@@ -7,18 +7,21 @@ Note: If you don't understand anything I said, please check the actual code file
 
 ---
 
-
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 To clone this repository and run it locally on your computer, follow these steps:
 
-Open your terminal and run the following command to clone the repository to your local machine:
-```bash
-git clone https://github.com/MashrafiDev/Basic-Syntax-Variables-and-Data-types.git
-```
-```bash
-cd Basic-Syntax-Variables-and-Data-types
-```
+1. Open your terminal and run the following command to clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/MashrafiDev/Basic-Syntax-Variables-and-Data-types.git
+    ```
+
+2. Navigate into the project directory:
+    ```bash
+    cd Basic-Syntax-Variables-and-Data-types
+    ```
+
+---
 
 ### 🤔 Why C Language?
 
@@ -159,3 +162,5 @@ Binary power logic:
 ### ✅ Final Thoughts
 
 This type of repository will be added to my GitHub as I continue to learn more topics. I hope others find it helpful as well. If you find it useful, feel free to follow me and star the repo! If you notice any mistakes, please let me know so I can fix them. I'll be creating new repositories as I learn, so feel free to follow those as well if you want to keep up with my progress.
+
+Email: [mashrafi.mail@gmail.com](mailto:mashrafi.mail@gmail.com)
