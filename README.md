@@ -30,7 +30,7 @@ However, if you are a complete beginner without any programming guidance, you ca
 
 ---
 
-### 🧠 What You'll Learn Here:
+### 🧠 What We'll Learn Here:
 
 - Basic Structure of a C Program
 - How to Print Output in C
